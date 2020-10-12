@@ -22,6 +22,7 @@ Ces codes contiennent une solution à l'étape 1 du TP.
 Vous trouverez dans la classe JeuDeLaVie.java deux lignes permettant de capter les événements souris et clavier : 
  - `scene.setOnKeyTyped(e->System.out.println(e));`
  - `scene.setOnMouseClicked(e-> System.out.println(e));`
+ 
  Ceci vous permettra de résoudre l'étape 2 du TP : 
   - 2. Interactivité : Ajouter des interactions :
     - l’appui sur ’p’ met en pause la simulation
